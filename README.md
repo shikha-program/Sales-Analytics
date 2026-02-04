@@ -90,7 +90,7 @@ Provides granular insights into individual product performance, including sales 
 • Tracks sales and profit trends over time.<br>
 • Supports smarter business decisions.<br>
 
-### 6. 📸Screenshots / Demos<br<
+### 6. 📸Screenshots / Demos
 Show what the dashboard looks like.- ![Alt text](https://github.com/username/repo/assets/image.png)<br>
 Example: ![Dashboard Preview](https://github.com/shikha-program/Sales-Analytics/blob/main/Sales%20dashboard.png)
 
