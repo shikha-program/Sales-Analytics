@@ -59,6 +59,7 @@ To deliver an interactive sales analytics tool that:<br>
 • Uncovers trends in sales, profit, customer contribution, and category performance over time.<br>
 
 • Walk through of key visuals (briefly!)<br>
+
 ~ Key KPIs (Top Section)<br>
 Displays high-level business performance metrics:<br>
 Total Sales Revenue<br>
