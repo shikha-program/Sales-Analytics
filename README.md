@@ -90,6 +90,6 @@ Provides granular insights into individual product performance, including sales 
 • Supports smarter business decisions.<br>
 
 ### 6. 📸Screenshots / Demos<br<
-Show what the dashboard looks like.- ![Alt text<br>
-Example: ![Dashboard Preview] (https://github.com/shikha-program/Sales-Analytics/blob/main/Sales%20dashboard.png)
+Show what the dashboard looks like.- ![Alt text](https://github.com/username/repo/assets/image.png)<br>
+Example: ![Dashboard Preview](https://github.com/shikha-program/Sales-Analytics/blob/main/Sales%20dashboard.png)
 
